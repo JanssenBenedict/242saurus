@@ -3,12 +3,16 @@ Mabacore101:
   title: Fasilkom UI Student
   url: https://github.com/Mabacore101
   image_url: https://github.com/Mabacore101.png
-
+  page: true
+  socials:
+    github: Mabacore101
 JanssenBenedict:
   name: Janssen Benedict
   title: Fasilkom UI Student
   url: https://github.com/JanssenBenedict
   image_url: https://github.com/JanssenBenedict.png
+  socials:
+    github: JanssenBenedict
 
 yangshun:
   name: Yangshun Tay
